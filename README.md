@@ -19,7 +19,7 @@ It is a Market Basket Analysis using Apriori Algorithm
 ## To Run
 -> Download all the files.
 
--> Open the main file using jupyter notebook in Anaconda in your computer
+-> Open the Apriori_Algorithm.pynb file using jupyter notebook in Anaconda in your computer
 
 -> Run all cells to execute and learn the recommendation Engine.
 
