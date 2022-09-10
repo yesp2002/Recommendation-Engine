@@ -1,4 +1,4 @@
-# Recommendation-Engine
+# Recommendation-Engine-for-Items-Combo-Offers
 
 This is a recommendation model which aims to provide the best combos of items to provide any offers on the set of products to improve the shop's profits.
 It is a Market Basket Analysis using Apriori Algorithm
