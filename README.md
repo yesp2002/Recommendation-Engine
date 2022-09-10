@@ -24,7 +24,7 @@ It is a Market Basket Analysis using Apriori Algorithm
 -> Run all cells to execute and learn the recommendation Engine.
 
 
-##Recommendation Engine Working
+## Recommendation Engine Working
 
 -> Firstly collected an Online Retails Store Data consisting of different Invoices with the items purchased. This Retail Store is based in many countries such as Australia, France, United Kingdom and many more.
 
